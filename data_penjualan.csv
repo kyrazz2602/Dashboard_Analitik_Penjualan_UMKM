@@ -1,0 +1,25 @@
+Bulan;Produk;Kategori;Wilayah;Penjualan;Keuntungan;Pelanggan_Baru;Rating
+Jan;Produk A;Fashion;Jakarta;120;25;30;4,5
+Jan;Produk B;Makanan;Bandung;90;18;20;4,3
+Jan;Produk C;Kerajinan;Karawang;70;14;12;4,1
+Feb;Produk A;Fashion;Jakarta;140;30;35;4,6
+Feb;Produk B;Makanan;Bandung;100;20;25;4,2
+Feb;Produk C;Kerajinan;Karawang;80;16;15;4
+Mar;Produk A;Fashion;Jakarta;160;35;40;4,7
+Mar;Produk B;Makanan;Bandung;120;25;27;4,4
+Mar;Produk C;Kerajinan;Karawang;90;18;18;4,2
+Apr;Produk A;Fashion;Jakarta;180;38;42;4,8
+Apr;Produk B;Makanan;Bandung;130;27;30;4,5
+Apr;Produk C;Kerajinan;Karawang;100;20;20;4,3
+Mei;Produk A;Fashion;Jakarta;200;42;48;4,9
+Mei;Produk B;Makanan;Bandung;140;28;32;4,6
+Mei;Produk C;Kerajinan;Karawang;110;22;23;4,4
+Jun;Produk A;Fashion;Jakarta;210;45;50;4,9
+Jun;Produk B;Makanan;Bandung;150;30;34;4,7
+Jun;Produk C;Kerajinan;Karawang;120;25;25;4,5
+Jul;Produk A;Fashion;Jakarta;230;48;52;4,9
+Jul;Produk B;Makanan;Bandung;160;32;36;4,8
+Jul;Produk C;Kerajinan;Karawang;130;26;27;4,6
+Agu;Produk A;Fashion;Jakarta;240;50;55;4,9
+Agu;Produk B;Makanan;Bandung;170;34;37;4,8
+Agu;Produk C;Kerajinan;Karawang;140;28;29;4,7
